@@ -1,0 +1,36 @@
+
+ 17:07:33 Сервер - запущен
+ 17:07:33 Порт: 3000
+ 17:15:32 / 95.213.201.187
+ 17:22:47 Сервер - запущен
+ 17:22:47 Порт: 3000
+ 17:24:57 Сервер - запущен
+ 17:24:57 Порт: 3000
+ 17:26:18 Сервер - запущен
+ 17:26:18 Порт: 3000
+ 17:28:29 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=1088&email=nospam@mail.ru&fio=test&fio_parent=testparent&birthday=2024-03-14&phone=+7 (928) 307-82-37&phone_comment=Telegram
+ 17:28:29 / 95.213.201.187
+ 17:28:30 Отправка сообщения - пришло: 269156
+ 17:32:13 Сервер - запущен
+ 17:32:13 Порт: 3000
+ 17:33:22 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=1088&email=nospam%40mail.ru&fio=%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D0%B9&fio_parent=%D0%A2%D0%B5%D1%81%D1%82%D0%92%D0%B0%D1%81%D1%8F&birthday=2024-03-06&phone=%2B7%20(928)%20307-82-37&phone_comment=Telegram
+ 17:33:22 / 95.213.201.187
+ 17:33:27 Отправка сообщения - пришло: 269159
+ 17:35:46 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=undefined&pipeline_id=undefined&email=nfjdfduf%40mail.ru&fio=%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0&fio_parent=%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D0%B8&birthday=22-03-2024&phone=%2B7%20(928)%20307-82-37&phone_comment=Whatsapp%3B%20Telegram
+ 17:35:46 / 95.213.201.187
+ 17:35:46 Отправка сообщения - пришло: [{"field":"pipeline_id","message":"This field is required"},{"field":"pipeline_status_id","message":"This field is required"}]
+ 17:38:48 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=775&email=vfgh%40mail.ru&fio=%D0%A2%D0%B5%D1%81%D1%82%20%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0&fio_parent=Vladislav&birthday=21-03-2024&phone=%2B7%20(960)%20371-92-71&phone_comment=Telegram
+ 17:38:48 / 95.213.201.187
+ 17:38:51 Отправка сообщения - пришло: 269163
+ 17:47:10 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=943&email=myemail%40mail.ru&fio=%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&fio_parent=%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%B9%D0%91%D0%B0%D0%BD%D0%BD%D0%B5%D1%80&birthday=14-03-2024&phone=%2B7%20(917)%20633-44-20&phone_comment=Whatsapp
+ 17:47:10 / 95.213.201.187
+ 17:47:10 Отправка сообщения - пришло: 269166
+ 17:48:48 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=775&email=TRUjg%40mail.ru&fio=%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%D0%9A%D0%A8%D0%BA%D0%BE%D0%BB%D0%B5&fio_parent=%D0%9C%D0%B0%D1%82%D1%8C&birthday=14-03-2024&phone=%2B7%20(917)%20633-44-20&phone_comment=Whatsapp%3B%20Telegram
+ 17:48:48 / 95.213.201.187
+ 17:48:48 Отправка сообщения - пришло: 269167
+ 18:54:47 Сервер - запущен
+ 18:54:47 Порт: 3000
+ 19:27:21 https://panel.bigbencrm.ru/api/leads/add?key=621f75d3ebb01f7279d6d21d4d18c1e1&pipeline_status_id=1&pipeline_id=943&email=Nospa%40mail.ri&fio=%D0%A2%D0%B5%D1%81%D1%82%20%D0%A2%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC%20%D0%B1%D0%BE%D1%82%D0%B0&fio_parent=%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B&birthday=14-03-2024&phone=%2B7%20(981)%20876-26-14&phone_comment=Whatsapp
+ 19:27:21 / 95.213.201.187
+ 19:27:21 Отправка сообщения - пришло: 269194
+ 21:38:49 / 95.143.190.179

@@ -1,0 +1,97 @@
+
+ 13:42:33 Сервер - запущен
+ 13:42:33 Порт: 3000
+ 13:43:50 / 95.213.201.187
+ 13:52:07 Сервер - запущен
+ 13:52:07 Порт: 3000
+ 13:52:54 Сервер - запущен
+ 13:52:54 Порт: 3000
+ 13:53:10 / 95.213.201.187
+ 13:53:10 Глобальный косяк приложения!!!  TypeError: Cannot read properties of undefined (reading 'query')
+    at file:///var/www/html/tilda/index.js:21:27
+    at Layer.handle [as handle_request] (/var/www/html/tilda/node_modules/express/lib/router/layer.js:95:5)
+    at next (/var/www/html/tilda/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/var/www/html/tilda/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/var/www/html/tilda/node_modules/express/lib/router/layer.js:95:5)
+    at /var/www/html/tilda/node_modules/express/lib/router/index.js:284:15
+    at param (/var/www/html/tilda/node_modules/express/lib/router/index.js:365:14)
+    at param (/var/www/html/tilda/node_modules/express/lib/router/index.js:376:14)
+    at Function.process_params (/var/www/html/tilda/node_modules/express/lib/router/index.js:421:3)
+    at next (/var/www/html/tilda/node_modules/express/lib/router/index.js:280:10)
+    at file:///var/www/html/tilda/index.js:14:5
+    at Layer.handle [as handle_request] (/var/www/html/tilda/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/var/www/html/tilda/node_modules/express/lib/router/index.js:328:13)
+    at /var/www/html/tilda/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/var/www/html/tilda/node_modules/express/lib/router/index.js:346:12)
+    at next (/var/www/html/tilda/node_modules/express/lib/router/index.js:280:10)
+    at expressInit (/var/www/html/tilda/node_modules/express/lib/middleware/init.js:40:5)
+    at Layer.handle [as handle_request] (/var/www/html/tilda/node_modules/express/lib/router/layer.js:95:5)
+    at trim_prefix (/var/www/html/tilda/node_modules/express/lib/router/index.js:328:13)
+    at /var/www/html/tilda/node_modules/express/lib/router/index.js:286:9
+    at Function.process_params (/var/www/html/tilda/node_modules/express/lib/router/index.js:346:12)
+    at next (/var/www/html/tilda/node_modules/express/lib/router/index.js:280:10)
+ 13:53:42 Сервер - запущен
+ 13:53:42 Порт: 3000
+ 13:56:20 Сервер - запущен
+ 13:56:20 Порт: 3000
+ 14:00:02 Сервер - запущен
+ 14:00:02 Порт: 3000
+ 14:04:08 Сервер - запущен
+ 14:04:08 Порт: 3000
+ 14:04:29 / 95.213.201.187
+ 14:04:59 / 95.213.201.187
+ 14:05:59 / 95.213.201.187
+ 14:06:25 Сервер - запущен
+ 14:06:25 Порт: 3000
+ 14:09:20 / 95.213.201.187
+ 14:09:39 / 95.213.201.187
+ 14:12:03 Сервер - запущен
+ 14:12:03 Порт: 3000
+ 14:12:07 / 95.213.201.187
+ 14:12:58 / 95.213.201.187
+ 14:14:00 / 95.213.201.187
+ 14:15:58 Сервер - запущен
+ 14:15:58 Порт: 3000
+ 14:17:16 Сервер - запущен
+ 14:17:16 Порт: 3000
+ 14:17:53 Сервер - запущен
+ 14:17:53 Порт: 3000
+ 14:18:06 Сервер - запущен
+ 14:18:06 Порт: 3000
+ 14:18:21 Сервер - запущен
+ 14:18:21 Порт: 3000
+ 14:18:25 / 95.213.201.187
+ 14:19:11 / 95.213.201.187
+ 14:24:07 Сервер - запущен
+ 14:24:07 Порт: 3000
+ 14:24:23 Сервер - запущен
+ 14:24:23 Порт: 3000
+ 14:25:11 Сервер - запущен
+ 14:25:11 Порт: 3000
+ 14:28:46 Сервер - запущен
+ 14:28:46 Порт: 3000
+ 14:28:53 Сервер - запущен
+ 14:28:53 Порт: 3000
+ 14:29:04 Сервер - запущен
+ 14:29:04 Порт: 3000
+ 14:30:32 Сервер - запущен
+ 14:30:32 Порт: 3000
+ 14:30:49 / 95.213.201.187
+ 14:31:42 Сервер - запущен
+ 14:31:42 Порт: 3000
+ 14:47:45 Сервер - запущен
+ 14:47:45 Порт: 3000
+ 14:50:13 Сервер - запущен
+ 14:50:13 Порт: 3000
+ 14:50:53 Сервер - запущен
+ 14:50:53 Порт: 3000
+ 14:51:56 Сервер - запущен
+ 14:51:56 Порт: 3000
+ 14:55:10 Сервер - запущен
+ 14:55:10 Порт: 3000
+ 14:55:53 / 95.213.201.187
+ 14:57:23 Сервер - запущен
+ 14:57:23 Порт: 3000
+ 14:58:34 / 95.213.201.187
+ 14:59:59 Сервер - запущен
+ 14:59:59 Порт: 3000

@@ -3,8 +3,24 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "activedirectory": "*",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "*",
+    "express": "*",
+    "express-handlebars": "*",
+    "express-session": "*",
+    "fs-extra": "^11.2.0",
+    "nodemon": "*",
+    "nouislider": "*",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "urlencode": "^2.0.0"
   },
   "author": "TEYHD",
   "license": "ISC"
