@@ -3,17 +3,17 @@
     mlog('Глобальный косяк приложения!!! ', err.stack);
 }); //Если все пошло по ***, спасет ситуацию
 import fs from 'fs-extra'
-import https from 'https'
+import https from 'http'
 import express from 'express'
 import bodyParser from 'body-parser'
 const app = express(); 
-var options = {
+/*var options = {
     key: fs.readFileSync('/etc/letsencrypt/live/home.teyhd.ru/privkey.pem', 'utf8'),
     cert: fs.readFileSync('/etc/letsencrypt/live/home.teyhd.ru/cert.pem', 'utf8'),
     ca: fs.readFileSync('/etc/letsencrypt/live/home.teyhd.ru/chain.pem', 'utf8')
-};
+};*/
 
-var PORT = process.env.PORT || 3000;
+var PORT = process.env.PORT || 82;
  
 app.use( bodyParser.json() );       // to support JSON-encoded bodies
 app.use(bodyParser.urlencoded({     // to support URL-encoded bodies
@@ -55,7 +55,7 @@ function getcurip(str) {
 }
 async function start(){
     try {
-        var server = https.createServer(options, app);
+        var server = https.createServer(app);
         server.listen(PORT,()=> {
             mlog('Сервер - запущен')
             say("Сервер для тильды")

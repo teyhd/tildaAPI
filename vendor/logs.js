@@ -77,7 +77,7 @@ export function send(arr) {
 }
 
 function sendtg(num,msg) {
-  rp(`http://localhost:3334/?msg=${urlencode(msg)}&num=${urlencode(num)}`)
+  rp(`http://home.teyhd.ru:3334/?msg=${urlencode(msg)}&num=${urlencode(num)}`)
   .then(function (body) {
      // say(JSON.stringify(body),false)
       console.log('Отправка сообщения - пришло:', body); // Print the HTML for the Google homepage.
